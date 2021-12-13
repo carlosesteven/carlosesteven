@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @carlosesteven.
+# Hi, I'm @carlosesteven 👋
 
-- 👀 I’m interested in development mobile application.
+👀 I'm interested in development mobile applications.
 
-- 🌱 I’m currently learning Android, Kotlin, Swift UI.
+🌱 I'm currently learning Kotlin and Swift UI.
 
-- 📫 How to reach me.
+📫 How to reach me.
+  - Email: carlos-esteven@csc-lab.xyz
   - Facebook: https://www.facebook.com/carlos.esteven.1/
   - Twitter: https://www.twitter.com/carlos_esteven/
-  - Email: carlos-esteven@csc-lab.xyz
 
-- Website: https://csc-lab.xyz
+Website: https://csc-lab.xyz
 
-- Current projects
+## Current projects
 
   - Anime Cast
     - https://animecast.xyz

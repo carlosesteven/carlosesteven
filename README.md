@@ -1,6 +1,4 @@
-# Hi, I'm @carlosesteven 👋
-
-👀 I'm interested in development mobile applications.
+👀 I'm Mobile App Developer.
 
 🌱 I'm currently learning Kotlin and Swift UI.
 

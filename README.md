@@ -11,15 +11,7 @@ Website: https://csc-lab.xyz
 
 ## Current projects
 
-  - Anime Cast
-    - https://animecast.xyz
-    - https://animecast.csc-lab.xyz
-    
-  - Manga Cast
-    - https://mangacast.csc-lab.xyz
-    
-  - Dorama Cast
-    - http://doramacast.csc-lab.xyz
-
-  - Hentai Cast
-    - http://hentaicast.csc-lab.xyz
+| Anime Cast | Manga Cast | Dorama Cast | Hentai Cast |
+| :-----------: | :------------: | :------------: | :------------: |
+| <img src="https://animecast.csc-lab.xyz/img/cover.png"  width="230" height="230">   |  <img src="https://mangacast.csc-lab.xyz/img/cover.png"  width="230" height="230">   |    <img src="http://doramacast.csc-lab.xyz/img/cover.png"  width="230" height="230"> |    <img src="http://hentaicast.csc-lab.xyz/img/cover.png"  width="230" height="230"> |
+| https://animecast.xyz   |    https://mangacast.csc-lab.xyz    |      http://doramacast.csc-lab.xyz |    http://hentaicast.csc-lab.xyz |

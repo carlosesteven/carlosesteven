@@ -9,7 +9,7 @@
 
 Website: https://csc-lab.xyz
 
-<h1 align="center">My Projects</h1>
+<h1 align="center">Current Projects</h1>
 
 ## ANIMECAST 
 

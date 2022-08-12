@@ -14,7 +14,7 @@
 
 <h1 align="center">Current Projects</h1>
 
-## ANIMECAST 
+## ANIME CAST 
 
 <img src="https://animecast.csc-lab.xyz/img/logo_v3.png"  width="200" height="200">
 
@@ -22,23 +22,23 @@
 1. [https://animecast.xyz](https://animecast.xyz)
 2. [https://animecast.csc-lab.xyz](https://animecast.csc-lab.xyz)
 
-## MANGACAST
+## MANGA CAST
 
 <img src="https://mangacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
 #### WEB SITE
 [https://mangacast.csc-lab.xyz](https://mangacast.csc-lab.xyz)
 
-## DORAMACAST
+## DORAMA CAST
 
 <img src="http://doramacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
 #### WEB SITE
 [http://doramacast.csc-lab.xyz](http://doramacast.csc-lab.xyz)
 
-## HENTAICAST
+## HENTAI CAST
 
-<img src="http://hentaicast.csc-lab.xyz/img/cover.png"  width="200" height="200">
+<img src="https://hentaicast.csc-lab.xyz/img/hentai_cast_v2.png"  width="200" height="200">
 
 #### WEB SITE
 [https://hentaicast.csc-lab.xyz](https://hentaicast.csc-lab.xyz)

@@ -31,10 +31,10 @@
 
 ## DORAMA CAST
 
-<img src="http://doramacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
+<img src="https://doramacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
 #### WEB SITE
-[http://doramacast.csc-lab.xyz](http://doramacast.csc-lab.xyz)
+[https://doramacast.csc-lab.xyz](https://doramacast.csc-lab.xyz)
 
 ## HENTAI CAST
 

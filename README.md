@@ -27,7 +27,8 @@
 <img src="https://mangacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
 #### WEB SITE
-[https://mangacast.csc-lab.xyz](https://mangacast.csc-lab.xyz)
+1. [https://manga-cast.com](https://manga-cast.com)
+2. [https://mangacast.csc-lab.xyz](https://mangacast.csc-lab.xyz)
 
 ## DORAMA CAST
 

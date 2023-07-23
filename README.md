@@ -24,7 +24,7 @@
 
 ## MANGA CAST
 
-<img src="https://mangacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
+<img src="https://manga-cast.com/img/logo_v1.png"  width="200" height="200">
 
 #### WEB SITE
 1. [https://manga-cast.com](https://manga-cast.com)

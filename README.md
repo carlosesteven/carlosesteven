@@ -1,6 +1,6 @@
 👀 I'm Android Developer.
 
-🌱 I'm currently learning Swift UI.
+🌱 Learning Swift UI.
 
 📫 How to reach me.
   - Email: carlos-esteven@csc-lab.xyz

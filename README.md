@@ -1,13 +1,13 @@
-👀 I'm Android Developer.
+I'm Android Developer.
 
-🌱 Learning Swift UI.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosesteven&show_icons=true" alt="carlosesteven" /></p>
 
-📫 How to reach me.
+How to reach me.
   - Email: carlos-esteven@csc-lab.xyz
   - Facebook: https://www.facebook.com/carlos.esteven.1
   - Twitter: https://www.twitter.com/carlos_esteven
  
-📎 Fan Pages.
+Fan Pages.
   - Facebook: https://www.facebook.com/app.anime.cast
   - Instagram: https://www.instagram.com/app.anime.cast
   - Website: https://csc-lab.xyz

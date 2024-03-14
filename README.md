@@ -1,5 +1,3 @@
-I'm Android Developer.
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosesteven&show_icons=true" alt="carlosesteven" /></p>
 
 How to reach me.

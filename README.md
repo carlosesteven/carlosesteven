@@ -2,13 +2,8 @@
 
 How to reach me.
   - Email: carlos-esteven@csc-lab.xyz
-  - Facebook: https://www.facebook.com/carlos.esteven.1
-  - Twitter: https://www.twitter.com/carlos_esteven
  
-Fan Pages.
-  - Facebook: https://www.facebook.com/app.anime.cast
-  - Instagram: https://www.instagram.com/app.anime.cast
-  - Website: https://csc-lab.xyz
+Website: https://csc-lab.xyz
 
 <h1 align="center">Current Projects</h1>
 

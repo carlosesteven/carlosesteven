@@ -2,7 +2,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosesteven&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosesteven&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosesteven&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=carlosesteven&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
 </div>
 
 How to reach me.

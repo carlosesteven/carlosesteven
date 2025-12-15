@@ -41,3 +41,10 @@ How to reach me.
 
 #### WEB SITE
 [https://doramacast.csc-lab.xyz](https://doramacast.csc-lab.xyz)
+
+## CANVASFIT - POSTRESIZER
+
+<img src="https://static.csc-lab-api.xyz/logos/canvasfit_icon.png"  width="200" height="200">
+
+#### WEB SITE
+[https://canvasfit.csc-lab.xyz](https://canvasfit.csc-lab.xyz)
